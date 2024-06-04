@@ -1,4 +1,3 @@
-# Joan Lawal
 
 # Data Scientist
 
