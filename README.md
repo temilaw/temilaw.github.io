@@ -1,8 +1,8 @@
-# temilaw.github.io
+# Joan Lawal
 
-# Aspiring Data Scientist
+# Data Scientist
 
-#### Technical Skills: Python
+#### Technical Skills: Python, SQL, Microsoft Excel
 
 ## Education
 **HyperionDev (_November 2023 - present_)** 
