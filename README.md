@@ -1,4 +1,3 @@
-
 # Data Scientist
 
 #### Technical Skills: Python, SQL, Microsoft Excel
@@ -19,7 +18,7 @@
 - Collaborated with research team to interpret findings and prepare manuscripts for peer-reviewed journals.
 
   
-**University of Bristol (2014 – 2017)**	BSc Biochemistry 2nd class honours
+**University of Bristol (2014 – 2017)**	BSc Biochemistry 
 - Dissertation title: The role of Surface Exposed Positive Residues of VPS35 in Facilitating Binding to the WASH Complex 
 SPSS
 
